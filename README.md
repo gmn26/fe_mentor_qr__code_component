@@ -1,3 +1,5 @@
+<h1><a href="https://fe-mentor-qr-code-component-eight.vercel.app/">Click here for the Demo!</a></h1>
+
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
